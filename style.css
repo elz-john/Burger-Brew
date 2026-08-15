@@ -223,40 +223,6 @@ body{
 
 
 
-        .banner{
-            margin: 0px 8% 60px 8%;
-            padding: 0px 20px;
-            height: 300px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            align-items: center;
-            background:linear-gradient(rgba(0,0,0,0.10),rgba(0,0,0,0.10)), url('./Grilled\ Chicken\ Wrap\ with\ Fries.png');
-            background-size: cover;
-            background-position: bottom;
-            height: 400px
-        }
-        
-
-        .aboutHead{
-            font-size: 40px;
-            color: #5c3520;
-            margin-bottom: 40px;
-        }
-
-
-        .aboutPara{
-            font-size: 20px;
-            color: white;
-            margin-bottom: 40px;
-        }
-
-
-        .aboutButton{
-            font-size: 15px;
-        }
-
-
 
 
 /* Gallery */
@@ -639,7 +605,38 @@ body{
 }
 
 
+        .banner{
+            margin: 0px 8% 60px 8%;
+            padding: 0px 20px;
+            height: 300px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            background:linear-gradient(rgba(0,0,0,0.10),rgba(0,0,0,0.10)), url('./Grilled\ Chicken\ Wrap\ with\ Fries.png');
+            background-size: cover;
+            background-position: bottom;
+            height: 400px
+        }
+        
 
+        .aboutHead{
+            font-size: 40px;
+            color: #5c3520;
+            margin-bottom: 40px;
+        }
+
+
+        .aboutPara{
+            font-size: 20px;
+            color: white;
+            margin-bottom: 40px;
+        }
+
+
+        .aboutButton{
+            font-size: 15px;
+        }
 
 
         .contact{
