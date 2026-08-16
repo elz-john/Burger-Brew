@@ -692,10 +692,22 @@ body{
 
 
 
-        .subButton{
-            color:white;
-            background-color: #5c4b44;
-        }
+        .subButton {
+    color: white;
+    background-color: rgb(96, 11, 11);
+    border : none;
+    padding: 8px 15px;
+    cursor: pointer;
+    transition: 0.1s;
+
+}
+
+
+.subButton:hover{
+      background-color: black;
+      color: white;
+      transform: scale(1.05);
+
 
 
 
